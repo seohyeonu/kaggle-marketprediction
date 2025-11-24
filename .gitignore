@@ -1,0 +1,17 @@
+# python envs
+__pycache__/
+*.pyc
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# cache and temp
+*.log
+*.tmp
+
+# kaggle authentication
+~/.kaggle/kaggle.json
+
+# optional: if you want clean git diffs, ignore notebook output
+*.ipynb
+!marketprediction.ipynb
